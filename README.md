@@ -27,7 +27,13 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
+  <a href="https://www.r-project.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="r" width="40" height="40"/>
+  </a>
   <a href="https://www.perl.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/perl/perl-original.svg" alt="perl" width="40" height="40"/>
+  </a>
+  <a href="https://www.adacore.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/ada-lang-io/ada-logo-editor/blob/1fefbdf412bddbbae0e2d63212c504dc31998bc2/contrib/ada-inside/ada_inside_blue_circle_logo.svg" alt="ada" width="40" height="40"/>
   </a>
 </p>
